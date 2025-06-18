@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750165658
+Auto.glb::PackedScene/PackedScene::1642051384262125522::1748340089::1748961107::1::::<><><>0<>0<>88ac95f47e9062123cfdbac90ba329c4<>res://.godot/imported/Auto.glb-379e0e0fd0c768eda5ac385779fc781a.scn::
+Baum.glb::PackedScene/PackedScene::8792123002919006134::1748340089::1748961107::1::::<><><>0<>0<>0c40f6204836c97f0a73de2df6ab61b7<>res://.godot/imported/Baum.glb-a6b1814fd571ecb566f393701cb7957d.scn::
+camera_3d.gd::GDScript/GDScript::5942575086235959344::1748956043::0::1::::<>RefCounted<><>0<>0<><>::
+camera_grid.gd::GDScript/GDScript::117053337757250579::1748355868::0::1::::<>Node3D<><>0<>0<><>::
+character_body_3d.gd::GDScript/GDScript::7291559668840386193::1749072328::0::1::::<>CharacterBody3D<><>0<>0<><>::
+export_presets.cfg::TextFile/TextFile::-1::1749108476::0::1::::<><><>0<>0<><>::
+Gebäude.glb::PackedScene/PackedScene::9223026820844907625::1748340089::1748961107::1::::<><><>0<>0<>a6fabfbeb4e3c2f81807c4c7a4fffa36<>res://.godot/imported/Gebäude.glb-5d60377212a7a4fc09493b41585b183c.scn::
+icon.svg::CompressedTexture2D/CompressedTexture2D::2105350630837846965::1747140016::1748961106::1::::<><><>0<>0<>1bb9b830d9aa48abba298a1de82cd3e9<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.tscn::PackedScene::8055386303935288136::1750157623::0::1::::<><><>0<>0<><>::uid://dun3mqim0ncm2::::res://MeterGrid.png<>uid://dxi78mnrwqbwg::::res://Baum.glb<>uid://d4nx50kgdrv2h::::res://Gebäude.glb<>uid://pyfoa2s5i6em::::res://Sitzbank.glb<>uid://b4v5oo1vu5qht::::res://rigid_body_3d.gd<>uid://xnol1ouhmqu1::::res://Auto.glb<>uid://db5c6mln5wgeb::::res://character_body_3d.gd
+MeterGrid.png::CompressedTexture2D/CompressedTexture2D::8591598193278232499::1747144945::1748961107::1::::<><><>0<>0<>66450d0c6416859ba39b8656087c6ffe<>res://.godot/imported/MeterGrid.png-8e1319a7542a445ed7fd48a981af0869.s3tc.ctex::
+rigid_body_3d.gd::GDScript/GDScript::4467096369402843281::1748357065::0::1::::<>RigidBody3D<><>0<>0<><>::
+Sitzbank.glb::PackedScene/PackedScene::1102706349314418608::1748340089::1748961107::1::::<><><>0<>0<>82639eae8d574550a8031bfe9ec68d79<>res://.godot/imported/Sitzbank.glb-c0861b97c065bc6360012ba43ab93d52.scn::
